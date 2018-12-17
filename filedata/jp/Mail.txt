@@ -1,17 +1,17 @@
 ## Template ------------------------------------------------------------------|
 ++ \#MAIL_TEMPLATE | Mail_Template.txt
-== \#MAIL_INTERNAL | （内部）
+== \#MAIL_INTERNAL | （内容）
 == \#MAIL_NOTITLE  | （タイトルなし）
 
 ## Cyber-Mage ----------------------------------------------------------------|
 ++ \#MAIL_BODY_IntroJem | Mail/Intro_CyberMage.txt
-== \#MAIL_NAME_IntroJem | 退避メッセージ
-== \#MAIL_SEND_IntroJem | （隠した）@corp.AOF
+== \#MAIL_NAME_IntroJem | 保存済メッセージ
+== \#MAIL_SEND_IntroJem | （不明）@corp.AOF
 == \#MAIL_TIME_IntroJem | 13時44分 25日7月49年
 == \#MAIL_SIZE_IntroJem | 310
 
 ++ \#MAIL_BODY_Cluster1Jem | Mail/Cluster1_CyberMage.txt
-== \#MAIL_NAME_Cluster1Jem | 退避分１０４
+== \#MAIL_NAME_Cluster1Jem | 保存済１０４
 == \#MAIL_SIZE_Cluster1Jem | 245
 
 ## EOF
