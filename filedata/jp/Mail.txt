@@ -1,17 +1,29 @@
 ## Template ------------------------------------------------------------------|
 ++ LITH_MAIL_TEMPLATE | Mail_Template.txt
-== LITH_MAIL_INTERNAL | （内部）
+== LITH_MAIL_INTERNAL | （内容）
 == LITH_MAIL_NOTITLE  | （タイトルなし）
 
 ## Cyber-Mage ----------------------------------------------------------------|
 ++ LITH_MAIL_BODY_IntroJem | Mail/Intro_CyberMage.txt
-== LITH_MAIL_NAME_IntroJem | 退避メッセージ
-== LITH_MAIL_SEND_IntroJem | （隠した）@corp.AOF
+== LITH_MAIL_NAME_IntroJem | 保存済メッセージ
+== LITH_MAIL_SEND_IntroJem | （不明）@corp.AOF
 == LITH_MAIL_TIME_IntroJem | 13時44分 25日7月49年
 == LITH_MAIL_SIZE_IntroJem | 310
 
 ++ LITH_MAIL_BODY_Cluster1Jem | Mail/Cluster1_CyberMage.txt
-== LITH_MAIL_NAME_Cluster1Jem | 退避分１０４
+== LITH_MAIL_NAME_Cluster1Jem | 保存済１０４
 == LITH_MAIL_SIZE_Cluster1Jem | 245
+
+++ \#MAIL_BODY_Cluster2Jem | Mail/Cluster2_CyberMage.txt
+== \#MAIL_NAME_Cluster2Jem | 保存済１５２
+
+++ \#MAIL_BODY_Cluster3Jem | Mail/Cluster3_CyberMage.txt
+== \#MAIL_NAME_Cluster3Jem | 保存済２４４
+
+++ \#MAIL_BODY_Secret1Jem | Mail/Secret1_CyberMage.txt
+== \#MAIL_NAME_Secret1Jem | 保存済２５０
+
+++ \#MAIL_BODY_Secret2Jem | Mail/Secret1_CyberMage.txt
+== \#MAIL_NAME_Secret2Jem | 保存済２５２
 
 ## EOF
